@@ -43,7 +43,7 @@ h2{
 .gringas{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Gringas.jpg);
+    background-image: url(Gringas.jpg);
     border: #ff8000 solid;
     background-size: contain;
     margin-left: 350px;
@@ -73,7 +73,7 @@ h2{
 .consomes{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Consomes.jpg);
+    background-image: url(Consomes.jpg);
     border: #ff8000 solid;
     background-size: contain;
     margin-left: 350px;
@@ -116,7 +116,7 @@ h3{
 .banquete_2{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Banquete\ 2.jpg);
+    background-image: url(Banquete\ 2.jpg);
     background-size: contain;
     border: #ff8000 solid;
     margin-left: 495px;
