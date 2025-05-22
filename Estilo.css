@@ -1,0 +1,208 @@
+body{
+    background-size: 100%;
+    background-image: url(Imagenes/Fondo.jpg);
+}
+
+h1{
+    text-align: center;
+    font-family: Verdana;
+    font-size: 45px;
+    background-color: rgb(120, 12, 12);
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+    background-color: #ff8000;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+.Descripcion{
+    background: #250202;
+    font-family: sans-serif;
+    padding: 15px;
+    border-left: 6px solid #4c2424;
+    width: 95vw;
+    height: 10vh;
+    font-size: 25px;
+    margin: auto;
+    color: white;
+    text-align: justify;
+}
+
+.tacos{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Tacos.jpg);
+    background-size: contain;
+    border: #ff8000 solid;
+    margin-left: 50px;
+}
+
+.gringas{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Gringas.jpg);
+    border: #ff8000 solid;
+    background-size: contain;
+    margin-left: 350px;
+    margin-top: -255px;
+}
+
+.hamburguesas{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Hamburguesas.jpg);
+    border: #ff8000 solid;
+    background-size: contain;
+    margin-left: 650px;
+    margin-top: -255px;
+}
+
+.tortas{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Tortas.jpg);
+    border: #ff8000 solid;
+    background-size: contain;
+    margin-left: 950px;
+    margin-top: -255px;
+}
+
+.consomes{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Consomes.jpg);
+    border: #ff8000 solid;
+    background-size: contain;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+.alambres{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Alambres.jpg);
+    border: #ff8000 solid;
+    background-size: contain;
+    margin-left: 650px;
+    margin-top: -255px;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 15px;
+    font-size: 45px;
+    background-image: url(Imagenes/Eventos.jpg);
+    height: 150px;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
+
+.banquete_1{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Banquete\ 1.jpg);
+    background-size: contain;
+    border: #ff8000 solid;
+    margin-left: 50px;
+}
+
+.banquete_2{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Banquete\ 2.jpg);
+    background-size: contain;
+    border: #ff8000 solid;
+    margin-left: 495px;
+    margin-top: -255px;
+}
+
+.banquete_3{
+    width: 250px;
+    height: 250px;
+    background-image: url(Imagenes/Banquete\ 3.jpg);
+    background-size: contain;
+    border: #ff8000 solid;
+    margin-left: 950px;
+    margin-top: -255px;
+}
+
+.desevento{
+    background: #250202;
+    font-family: sans-serif;
+    padding: 15px;
+    border-left: 6px solid #4c2424;
+    width: 95vw;
+    height: 6vh;
+    font-size: 25px;
+    margin-top: 15px;
+    color: white;
+    text-align: justify;
+}
+
+legend{
+    font-family: Lobster;
+    background-color: beige;
+}
+.formulario{
+    margin-top: 15px;
+    background: #49220e;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 15px;
+    font-size: 45px;
+    background-image: url(Imagenes/Taqueria.jpg);
+    height: 150px;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
+
+.mapa{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 50vh;
+    
+}
+
+video{
+    margin-top: 25px;
+    width: 500px;
+    height: 500px;
+}
+
+.video2{
+    margin-left: 700px;
+    margin-top: -528px;
+    width: 500px;
+    height: 500px;
+}
+
+details{
+    background-color: #a31717;
+    margin: 5px;
+    border: #ff8000 solid;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.respuestas{
+    padding: 10px 20px;
+    padding-top: 5px;
+
+    border-top: 1px solid rgb(255, 179, 0);
+}
