@@ -1,6 +1,6 @@
 body{
     background-size: 100%;
-    background-image: url(Imagenes/Fondo.jpg);
+    background-image: url(Fondo.jpg);
 }
 
 h1{
@@ -34,7 +34,7 @@ h2{
 .tacos{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Tacos.jpg);
+    background-image: url(Tacos.jpg);
     background-size: contain;
     border: #ff8000 solid;
     margin-left: 50px;
@@ -53,7 +53,7 @@ h2{
 .hamburguesas{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Hamburguesas.jpg);
+    background-image: url(Hamburguesas.jpg);
     border: #ff8000 solid;
     background-size: contain;
     margin-left: 650px;
@@ -63,7 +63,7 @@ h2{
 .tortas{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Tortas.jpg);
+    background-image: url(Tortas.jpg);
     border: #ff8000 solid;
     background-size: contain;
     margin-left: 950px;
@@ -83,7 +83,7 @@ h2{
 .alambres{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Alambres.jpg);
+    background-image: url(Alambres.jpg);
     border: #ff8000 solid;
     background-size: contain;
     margin-left: 650px;
@@ -97,7 +97,7 @@ h3{
     height: 100vh;
     margin-top: 15px;
     font-size: 45px;
-    background-image: url(Imagenes/Eventos.jpg);
+    background-image: url(Eventos.jpg);
     height: 150px;
     background-attachment: fixed;
     background-size: cover;
@@ -107,7 +107,7 @@ h3{
 .banquete_1{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Banquete\ 1.jpg);
+    background-image: url(Banquete\ 1.jpg);
     background-size: contain;
     border: #ff8000 solid;
     margin-left: 50px;
@@ -126,7 +126,7 @@ h3{
 .banquete_3{
     width: 250px;
     height: 250px;
-    background-image: url(Imagenes/Banquete\ 3.jpg);
+    background-image: url(Banquete\ 3.jpg);
     background-size: contain;
     border: #ff8000 solid;
     margin-left: 950px;
@@ -164,7 +164,7 @@ h4{
     height: 100vh;
     margin-top: 15px;
     font-size: 45px;
-    background-image: url(Imagenes/Taqueria.jpg);
+    background-image: url(Taqueria.jpg);
     height: 150px;
     background-attachment: fixed;
     background-size: cover;
